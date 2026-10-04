@@ -1,0 +1,7 @@
+# your own projects and their photos, songs and videos never go in the repo
+projects.json
+projects.json.tmp
+projects/
+__pycache__/
+*.pyc
+*.tmp

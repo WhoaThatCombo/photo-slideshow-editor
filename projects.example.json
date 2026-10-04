@@ -1,0 +1,7 @@
+{
+ "projects_dir": "C:\Users\you\Desktop",
+ "projects": [
+  {"id": "holiday", "name": "Holiday slideshow", "path": "C:\Users\you\Desktop\Holiday slideshow", "port": 8778},
+  {"id": "birthday", "name": "Birthday video", "path": "C:\Users\you\Desktop\Birthday video", "port": 8777}
+ ]
+}
